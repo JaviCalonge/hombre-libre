@@ -4,5 +4,5 @@ import { RouterLink } from "vue-router";
 </script>
 
 <template>
-  <RouterLink to="/"><h1 class="title">Hombre Libre</h1></RouterLink>
+  <RouterLink to="/"><h1 class="title" id="header">Hombre Libre</h1></RouterLink>
 </template>

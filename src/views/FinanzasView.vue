@@ -28,7 +28,7 @@ const finanzasPosts = computed(() => {
       <br /><br />
       <img
         class="etiqueta"
-        src="/src/assets/img/etiqueta.png"
+        src="/public/img/etiqueta.png"
         alt="Etiqueta"
         width="13"
         height="13"

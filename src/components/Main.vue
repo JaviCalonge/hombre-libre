@@ -38,15 +38,15 @@ onUnmounted(() => {
       <!-- Comprobar si 'imagen-post' no es null antes de renderizar la imagen -->
       <img
         class="imagen"
-        v-if="post['imagen-post']"
-        :src="post['imagen-post']"
+        v-if="post.imagenpost"
+        :src="post.imagenpost"
         alt="Imagen del post"
       />
       <br />
       <br />
       <img
         class="etiqueta"
-        src="/src/assets/img/etiqueta.png"
+        :src="post.imagen"
         alt="Etiqueta"
         width="13"
         height="13"

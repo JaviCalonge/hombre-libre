@@ -21,14 +21,14 @@ const humorPosts = computed(() => {
       </p>
       <img
         class="imagen"
-        v-if="post['imagen-post']"
-        :src="post['imagen-post']"
+        v-if="post.imagenpost"
+        :src="post.imagenpost"
         alt="Imagen del post"
       />
       <br /><br />
       <img
         class="etiqueta"
-        src="/src/assets/img/etiqueta.png"
+        src="/public/img/etiqueta.png"
         alt="Etiqueta"
         width="13"
         height="13"
