@@ -7,7 +7,7 @@
     "imagen-post": null,
     "ruta": "/Postos/0001",
     "seguir": "(sigue leyendo)",
-    "imagen": "/src/img/etiqueta.png",
+    "imagen": "/public/img/etiqueta.png",
     "etiqueta": "Libertad",
     "link": "/libertad"
   },
@@ -19,7 +19,7 @@
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0002",
-    "imagen": "/src/img/etiqueta.png",
+    "imagen": "/public/img/etiqueta.png",
     "etiqueta": "Libertad",
     "link": "/libertad"
   },
@@ -31,7 +31,7 @@
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001",
-    "imagen": "/src/img/etiqueta.png",
+    "imagen": "/public/img/etiqueta.png",
     "etiqueta": "Finanzas",
     "link": "/finanzas"
   },
@@ -40,10 +40,10 @@
     "titulo": null,
     "fecha": null,
     "descripcion": null,
-    "imagenpost": "/src/img/solutions.webp",
+    "imagenpost": "/public/img/solutions.webp",
     "seguir": null,
     "ruta": "/Posts/0001",
-    "imagen": "/src/img/etiqueta.png",
+    "imagen": "/public/img/etiqueta.png",
     "etiqueta": "Humor",
     "link": "/humor"
   },
@@ -55,7 +55,7 @@
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001",
-    "imagen": "/src/img/etiqueta.png",
+    "imagen": "/public/img/etiqueta.png",
     "etiqueta": "Finanzas",
     "link": "/finanzas"
   },
@@ -67,7 +67,7 @@
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001",
-    "imagen": "/src/img/etiqueta.png",
+    "imagen": "/public/img/etiqueta.png",
     "etiqueta": "Fuerza",
     "link": "/fuerza"
   },
@@ -79,7 +79,7 @@
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001",
-    "imagen": "/src/img/etiqueta.png",
+    "imagen": "/public/img/etiqueta.png",
     "etiqueta": "Fuerza",
     "link": "/fuerza"
   },
@@ -89,8 +89,8 @@
     "fecha": null,
     "descripcion": null,
     "seguir": null,
-    "imagenpost": "/src/img/mundo.jfif",
-    "imagen": "/src/img/etiqueta.png",
+    "imagenpost": "/public/img/mundo.jfif",
+    "imagen": "/public/img/etiqueta.png",
     "etiqueta": "Humor",
     "link": "/humor"
   }
