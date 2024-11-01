@@ -5,8 +5,8 @@
     "fecha": "30-06-2024",
     "descripcion": "La libertad individual se ha convertido en una aspiración fundamental en la vida de muchos hombres. Hoy en día, las responsabilidades y expectativas sociales pueden crear una sensación de presión y control. Tener autonomía permite al hombre moderno construir su camino en función de sus valores y objetivos, fortaleciendo su autoestima y aumentando su satisfacción personal. Sin embargo, ser autónomo no implica aislamiento; se trata de tomar decisiones informadas y ser responsable de uno mismo, forjando relaciones sanas basadas en respeto y reciprocidad...",
     "imagen-post": null,
+    "ruta": "/Postos/0001",
     "seguir": "(sigue leyendo)",
-    "ruta": "/Posts/0001.html",
     "imagen": "/src/img/etiqueta.png",
     "etiqueta": "Libertad",
     "link": "/libertad"
@@ -18,7 +18,7 @@
     "descripcion": "La sociedad actual ofrece una variedad de opciones y oportunidades que en otros tiempos eran limitadas. Sin embargo, con estas posibilidades viene la responsabilidad de elegir el camino correcto. La libertad de decidir es crucial para el desarrollo personal y la satisfacción en la vida, y más aún para los hombres que buscan crecer en todos los aspectos: profesional, familiar y personal. Este artículo explora cómo la toma de decisiones fortalece el carácter masculino, y cómo aprender a lidiar con las consecuencias se convierte en una parte integral del proceso de libertad personal...",
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
-    "ruta": "/Posts/0002.html",
+    "ruta": "/Posts/0002",
     "imagen": "/src/img/etiqueta.png",
     "etiqueta": "Libertad",
     "link": "/libertad"
@@ -30,7 +30,7 @@
     "descripcion": "Ahorrar e invertir de manera estratégica no es solo un acto de previsión, sino también un ejercicio de autodisciplina y responsabilidad. Los hombres que piensan en el futuro a menudo optan por inversiones a largo plazo, como fondos indexados, inmuebles o planes de jubilación. Este artículo profundiza en las estrategias de inversión diseñadas para construir una base sólida y evitar riesgos innecesarios. La independencia financiera no solo da libertad en términos económicos, sino que proporciona tranquilidad y confianza para tomar decisiones importantes en la vida...",
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
-    "ruta": "/Posts/0001.html",
+    "ruta": "/Posts/0001",
     "imagen": "/src/img/etiqueta.png",
     "etiqueta": "Finanzas",
     "link": "/finanzas"
@@ -42,7 +42,7 @@
     "descripcion": null,
     "imagenpost": "/src/img/solutions.webp",
     "seguir": null,
-    "ruta": "/Posts/0001.html",
+    "ruta": "/Posts/0001",
     "imagen": "/src/img/etiqueta.png",
     "etiqueta": "Humor",
     "link": "/humor"
@@ -54,7 +54,7 @@
     "descripcion": "En el camino hacia la independencia financiera, la gestión de deudas es una de las habilidades más cruciales que un hombre puede adquirir. Las deudas, cuando se manejan adecuadamente, pueden utilizarse como una herramienta para el crecimiento, pero mal gestionadas pueden ser una carga abrumadora. Este artículo ofrece estrategias prácticas para evitar deudas innecesarias, consolidarlas si es necesario y establecer un plan de pago efectivo. La clave está en ver la deuda como una herramienta, no como una trampa, para así avanzar hacia una vida financiera sin ataduras...",
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
-    "ruta": "/Posts/0001.html",
+    "ruta": "/Posts/0001",
     "imagen": "/src/img/etiqueta.png",
     "etiqueta": "Finanzas",
     "link": "/finanzas"
@@ -66,7 +66,7 @@
     "descripcion": "El entrenamiento de fuerza no solo transforma el cuerpo, sino también la mente. Para los hombres, el levantamiento de pesas y los ejercicios de resistencia refuerzan no solo el físico, sino también el carácter, la paciencia y la determinación. Este artículo analiza cómo las rutinas de entrenamiento de fuerza pueden mejorar el enfoque y la disciplina, lo que a su vez se traduce en beneficios en todos los aspectos de la vida. Además, se explora cómo estos entrenamientos pueden mejorar la confianza, aumentar la energía y reforzar la mentalidad de progreso continuo...",
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
-    "ruta": "/Posts/0001.html",
+    "ruta": "/Posts/0001",
     "imagen": "/src/img/etiqueta.png",
     "etiqueta": "Fuerza",
     "link": "/fuerza"
@@ -78,7 +78,7 @@
     "descripcion": "Hoy en día, la eficiencia es clave para aquellos que buscan mantenerse en forma sin sacrificar demasiado tiempo. Conocer los ejercicios adecuados y ejecutar una rutina estructurada permite alcanzar los mismos resultados en menos tiempo. En este artículo se exploran los beneficios del entrenamiento de fuerza eficiente, incluyendo la elección de ejercicios compuestos y la planificación de sesiones breves pero intensas. La idea es construir fuerza y resistencia sin descuidar otros aspectos importantes de la vida, logrando un equilibrio entre la forma física y el bienestar general...",
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
-    "ruta": "/Posts/0001.html",
+    "ruta": "/Posts/0001",
     "imagen": "/src/img/etiqueta.png",
     "etiqueta": "Fuerza",
     "link": "/fuerza"

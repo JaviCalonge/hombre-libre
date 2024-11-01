@@ -25,15 +25,15 @@ onUnmounted(() => {
 <template>
   <div class="main">
     <article v-for="post in posts" :key="post.id">
-      <a class="posts" :href="post.ruta">
+      <RouterLink class="posts" :to="{ name: 'post', params: { id: post.id }}">
         <h2 class="blog-title">{{ post.titulo }}</h2>
-      </a>
-
+      </RouterLink>
+      
       <h5 class="date">{{ post.fecha }}</h5>
 
       <p>
         {{ post.descripcion }}
-        <RouterLink class="posts" :to="post.ruta">{{ post.seguir }}</RouterLink>
+        <RouterLink class="posts" :to="{ name: 'post', params: { id: post.id }}">{{ post.seguir }}</RouterLink>
       </p>
       <!-- Comprobar si 'imagen-post' no es null antes de renderizar la imagen -->
       <img

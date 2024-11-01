@@ -5,6 +5,7 @@ import FinanzasView from "@/views/FinanzasView.vue";
 import FuerzaView from "@/views/FuerzaView.vue";
 import HumorView from "@/views/HumorView.vue";
 import ContactoView from "@/views/ContactoView.vue";
+import PostView from "@/views/PostView.vue";
 import NotFoundView from "@/views/NotFoundView.vue";
 
 const router = createRouter({
@@ -39,6 +40,11 @@ const router = createRouter({
       path: "/contacto",
       name: "contacto",
       component: ContactoView,
+    },
+    {
+      path: "/post/:id",
+      name: "post",
+      component: PostView,
     },
     {
       path: "/:catchAll(.*)",
