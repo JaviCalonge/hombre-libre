@@ -37,7 +37,7 @@
     "titulo": null,
     "fecha": null,
     "descripcion": null,
-    "imagen-post": "./src/assets/img/you-only-give-solutions.webp",
+    "imagen-post": "/src/assets/img/you-only-give-solutions.webp",
     "seguir": null,
     "ruta": "/Posts/0001.html",
     "imagen": "/src/assets/img/etiqueta.png",
@@ -82,7 +82,7 @@
     "fecha": null,
     "descripcion": null,
     "seguir": null,
-    "imagen-post": "./src/assets/img/el-mundo-antes-de-error-el-mundo-despues.jfif",
+    "imagen-post": "/src/assets/img/el-mundo-antes-de-error-el-mundo-despues.jfif",
     "imagen": "/src/assets/img/etiqueta.png",
     "etiqueta": "Humor"
   }

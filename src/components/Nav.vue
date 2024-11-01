@@ -1,24 +1,29 @@
+<script setup>
+import { RouterLink } from "vue-router";
+
+</script>
+
 <template>
   <nav class="nav">
     <ul class="nav-bar">
-      <a href="/">
+      <RouterLink to="/">
         <li>Home</li>
-      </a>
-      <a href="/libertad">
+      </RouterLink>
+      <RouterLink to="/libertad">
         <li>Libertad</li>
-      </a>
-      <a href="/finanzas">
+      </RouterLink>
+      <RouterLink to="/finanzas">
         <li>Finanzas</li>
-      </a>
-      <a href="/fuerza">
+      </RouterLink>
+      <RouterLink to="/fuerza">
         <li>Fuerza</li>
-      </a>
-      <a href="/humor">
+      </RouterLink>
+      <RouterLink to="/humor">
         <li>Humor</li>
-      </a>
-      <a href="/contacto">
+      </RouterLink>
+      <RouterLink to="/contacto">
         <li>Contacto</li>
-      </a>
+      </RouterLink>
     </ul>
   </nav>
 </template>

@@ -1,3 +1,8 @@
+<script setup>
+import { RouterLink } from "vue-router";
+
+</script>
+
 <template>
-  <a href="/"><h1 id="header" class="title">Hombre Libre</h1></a>
+  <RouterLink to="/"><h1 class="title">Hombre Libre</h1></RouterLink>
 </template>
