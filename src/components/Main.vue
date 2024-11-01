@@ -1,6 +1,7 @@
 <script setup>
 import postData from "../assets/posts.json";
 import { ref, onMounted, onUnmounted } from "vue";
+import { RouterLink } from "vue-router";
 
 const posts = ref(postData);
 const showGoUp = ref(false);
@@ -32,7 +33,7 @@ onUnmounted(() => {
 
       <p>
         {{ post.descripcion }}
-        <a class="posts" :href="post.ruta">{{ post.seguir }}</a>
+        <RouterLink class="posts" :to="post.ruta">{{ post.seguir }}</RouterLink>
       </p>
       <!-- Comprobar si 'imagen-post' no es null antes de renderizar la imagen -->
       <img
@@ -49,7 +50,7 @@ onUnmounted(() => {
         alt="Etiqueta"
         width="13"
         height="13"
-      /><a href="">{{ post.etiqueta }}</a>
+      /><RouterLink :to="post.link">{{ post.etiqueta }}</RouterLink>
     </article>
   </div>
   <a v-if="showGoUp" class="go-up" href="#header">Go up</a>

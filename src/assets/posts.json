@@ -8,7 +8,8 @@
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001.html",
     "imagen": "/src/assets/img/etiqueta.png",
-    "etiqueta": "Libertad"
+    "etiqueta": "Libertad",
+    "link": "/libertad"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0002.html",
     "imagen": "/src/assets/img/etiqueta.png",
-    "etiqueta": "Libertad"
+    "etiqueta": "Libertad",
+    "link": "/libertad"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001.html",
     "imagen": "/src/assets/img/etiqueta.png",
-    "etiqueta": "Finanzas"
+    "etiqueta": "Finanzas",
+    "link": "/finanzas"
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "seguir": null,
     "ruta": "/Posts/0001.html",
     "imagen": "/src/assets/img/etiqueta.png",
-    "etiqueta": "Humor"
+    "etiqueta": "Humor",
+    "link": "/humor"
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001.html",
     "imagen": "/src/assets/img/etiqueta.png",
-    "etiqueta": "Finanzas"
+    "etiqueta": "Finanzas",
+    "link": "/finanzas"
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001.html",
     "imagen": "/src/assets/img/etiqueta.png",
-    "etiqueta": "Fuerza"
+    "etiqueta": "Fuerza",
+    "link": "/fuerza"
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001.html",
     "imagen": "/src/assets/img/etiqueta.png",
-    "etiqueta": "Fuerza"
+    "etiqueta": "Fuerza",
+    "link": "/fuerza"
   },
   {
     "id": 8,
@@ -84,6 +91,7 @@
     "seguir": null,
     "imagen-post": "/src/assets/img/el-mundo-antes-de-error-el-mundo-despues.jfif",
     "imagen": "/src/assets/img/etiqueta.png",
-    "etiqueta": "Humor"
+    "etiqueta": "Humor",
+    "link": "/humor"
   }
 ]
