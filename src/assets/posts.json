@@ -7,7 +7,7 @@
     "imagen-post": null,
     "ruta": "/Postos/0001",
     "seguir": "(sigue leyendo)",
-    "imagen": "/public/img/etiqueta.png",
+    "imagen": "https://cdn.icon-icons.com/icons2/909/PNG/512/tag_icon-icons.com_70851.png",
     "etiqueta": "Libertad",
     "link": "/libertad"
   },
@@ -19,7 +19,7 @@
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0002",
-    "imagen": "/public/img/etiqueta.png",
+    "imagen": "https://cdn.icon-icons.com/icons2/909/PNG/512/tag_icon-icons.com_70851.png",
     "etiqueta": "Libertad",
     "link": "/libertad"
   },
@@ -31,7 +31,7 @@
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001",
-    "imagen": "/public/img/etiqueta.png",
+    "imagen": "https://cdn.icon-icons.com/icons2/909/PNG/512/tag_icon-icons.com_70851.png",
     "etiqueta": "Finanzas",
     "link": "/finanzas"
   },
@@ -40,10 +40,10 @@
     "titulo": null,
     "fecha": null,
     "descripcion": null,
-    "imagenpost": "/public/img/solutions.webp",
+    "imagenpost": "https://preview.redd.it/jlw7sntlslnc1.jpeg?auto=webp&s=98c88d75d4e84445408cb43503b65c9bc1226ed4",
     "seguir": null,
     "ruta": "/Posts/0001",
-    "imagen": "/public/img/etiqueta.png",
+    "imagen": "https://cdn.icon-icons.com/icons2/909/PNG/512/tag_icon-icons.com_70851.png",
     "etiqueta": "Humor",
     "link": "/humor"
   },
@@ -55,7 +55,7 @@
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001",
-    "imagen": "/public/img/etiqueta.png",
+    "imagen": "https://cdn.icon-icons.com/icons2/909/PNG/512/tag_icon-icons.com_70851.png",
     "etiqueta": "Finanzas",
     "link": "/finanzas"
   },
@@ -67,7 +67,7 @@
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001",
-    "imagen": "/public/img/etiqueta.png",
+    "imagen": "https://cdn.icon-icons.com/icons2/909/PNG/512/tag_icon-icons.com_70851.png",
     "etiqueta": "Fuerza",
     "link": "/fuerza"
   },
@@ -79,19 +79,8 @@
     "imagen-post": null,
     "seguir": "(sigue leyendo)",
     "ruta": "/Posts/0001",
-    "imagen": "/public/img/etiqueta.png",
+    "imagen": "https://cdn.icon-icons.com/icons2/909/PNG/512/tag_icon-icons.com_70851.png",
     "etiqueta": "Fuerza",
     "link": "/fuerza"
-  },
-  {
-    "id": 8,
-    "titulo": null,
-    "fecha": null,
-    "descripcion": null,
-    "seguir": null,
-    "imagenpost": "/public/img/mundo.jfif",
-    "imagen": "/public/img/etiqueta.png",
-    "etiqueta": "Humor",
-    "link": "/humor"
   }
 ]

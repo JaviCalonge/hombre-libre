@@ -28,7 +28,7 @@ const libertadPosts = computed(() => {
       <br /><br />
       <img
         class="etiqueta"
-        src="/src/img/etiqueta.png"
+        :src="require('@/assets/img/etiqueta.png')"
         alt="Etiqueta"
         width="13"
         height="13"

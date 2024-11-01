@@ -28,7 +28,7 @@ const finanzasPosts = computed(() => {
       <br /><br />
       <img
         class="etiqueta"
-        src="/src/img/etiqueta.png"
+        :src="post.imagen"
         alt="Etiqueta"
         width="13"
         height="13"
