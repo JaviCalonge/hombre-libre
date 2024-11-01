@@ -22,7 +22,7 @@ a:hover {
   font-weight: bolder;
 }
 
-a:active {
+.active {
   color: #005;
   font-weight: bolder;
 }

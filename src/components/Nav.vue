@@ -1,5 +1,10 @@
 <script setup>
-import { RouterLink } from "vue-router";
+import { RouterLink, useRoute } from "vue-router";
+
+const activeLink = (routePath) => {
+  const route = useRoute()
+  return route.path === routePath
+}
 
 </script>
 
@@ -7,22 +12,22 @@ import { RouterLink } from "vue-router";
   <nav class="nav">
     <ul class="nav-bar">
       <RouterLink to="/">
-        <li>Home</li>
+        <li :class="[activeLink('/') ? 'active' : '' ]">Home</li>
       </RouterLink>
       <RouterLink to="/libertad">
-        <li>Libertad</li>
+        <li :class="[activeLink('/libertad') ? 'active' : '' ]">Libertad</li>
       </RouterLink>
       <RouterLink to="/finanzas">
-        <li>Finanzas</li>
+        <li :class="[activeLink('/finanzas') ? 'active' : '' ]">Finanzas</li>
       </RouterLink>
       <RouterLink to="/fuerza">
-        <li>Fuerza</li>
+        <li :class="[activeLink('/fuerza') ? 'active' : '' ]">Fuerza</li>
       </RouterLink>
       <RouterLink to="/humor">
-        <li>Humor</li>
+        <li :class="[activeLink('/humor') ? 'active' : '' ]">Humor</li>
       </RouterLink>
       <RouterLink to="/contacto">
-        <li>Contacto</li>
+        <li :class="[activeLink('/contacto') ? 'active' : '' ]">Contacto</li>
       </RouterLink>
     </ul>
   </nav>
