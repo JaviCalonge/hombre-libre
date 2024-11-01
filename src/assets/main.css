@@ -231,6 +231,28 @@ button:hover {
 /*----------FORMULARIO END---------*/
 
 
+/*----------NOT FOUND---------*/
+
+.not-found-title {
+  text-align: center;
+  margin: 80px;
+  font-size: 60px;
+}
+
+.not-found-subtitle {
+  text-align: center;
+  margin: 60px 0 120px 0;
+  font-size: 35px;
+}
+
+.go-back {
+  margin-bottom: 200px;
+}
+
+
+/*----------NOT FOUND END---------*/
+
+
 @media (max-width: 713px) {
   .title {
     font-size: 52px;
@@ -251,7 +273,6 @@ button:hover {
     right: 20px;
   }
 }
-
 
 @media (max-width: 1800px) {
   .go-up {

@@ -5,6 +5,7 @@ import FinanzasView from "@/views/FinanzasView.vue";
 import FuerzaView from "@/views/FuerzaView.vue";
 import HumorView from "@/views/HumorView.vue";
 import ContactoView from "@/views/ContactoView.vue";
+import NotFoundView from "@/views/NotFoundView.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -38,6 +39,11 @@ const router = createRouter({
       path: "/contacto",
       name: "contacto",
       component: ContactoView,
+    },
+    {
+      path: "/:catchAll(.*)",
+      name: "not-found",
+      component: NotFoundView,
     },
   ],
 });
