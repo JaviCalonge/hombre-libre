@@ -2,6 +2,7 @@
 import postData from "../assets/posts.json";
 import { ref, onMounted } from "vue";
 import { useRoute } from "vue-router";
+import NotFoundView from "./NotFoundView.vue";
 
 const route = useRoute();
 const post = ref(null);
@@ -38,6 +39,9 @@ onMounted(() => {
       />
       <RouterLink :to="post.link">{{ post.etiqueta }}</RouterLink>
     </article>
+  </div>
+  <div v-else>
+    <NotFoundView />
   </div>
   <a v-if="showGoUp" class="go-up" href="#header">Go up</a>
 </template>
